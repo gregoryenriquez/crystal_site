@@ -1,0 +1,548 @@
+# Webalizer V2.23-08 Incremental Data - 03/20/2016 23:09:02
+2016 3 20 23 9 2
+917 829 70 49 33 20 93151370 334 102 0
+4 1 62 1 20
+26 20 839914 10 6 4
+22 18 728504 4 7 4
+28 21 1168433 6 4 2
+14 11 586740 2 3 1
+14 12 591787 2 4 2
+36 19 1064176 4 18 4
+19 13 600669 2 7 2
+17 15 597601 3 7 4
+45 42 8249164 5 8 5
+150 144 21361592 3 52 6
+23 21 642054 5 13 5
+26 24 659802 4 16 4
+20 18 624306 3 10 3
+20 18 624306 3 10 3
+142 140 17972845 5 54 8
+139 130 18684549 17 45 17
+28 24 4006299 7 10 7
+58 55 8130396 8 21 9
+41 38 1370547 8 17 8
+49 46 4647686 4 22 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+15 14 683438 3
+5 4 24329 4
+8 8 142459 4
+2 2 5916 2
+7 5 13264 6
+3 3 17646 3
+24 22 850426 5
+2 2 11832 2
+18 17 3956295 1
+36 35 4058672 19
+10 4 27040 7
+22 22 4085725 2
+30 29 4123997 9
+260 224 9786981 97
+76 67 11403134 37
+114 97 10906026 33
+15 14 3414170 8
+94 91 16526869 34
+36 35 4683193 6
+28 28 7648120 7
+44 43 1465429 26
+15 12 1204814 1
+20 20 4066108 3
+33 31 4045487 15
+0
+0
+0
+829
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+81
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/bootstrap/assets/transformations/image2.jpg
+1 4 0 426700 0 0
+/bootstrap/dist/js/ie10-viewport-bug-workaround.js
+0 40 0 27760 0 0
+/bootstrap/assets/image2.png
+1 4 0 2471888 0 0
+/services.php
+0 34 0 225896 0 3
+/bootstrap/dist/css/bootstrap.min.css
+0 45 0 5278725 0 0
+/test/bootstrap/assets/homepage/image1.png
+1 1 0 555596 0 0
+/test/bootstrap/assets/homepage/image2.png
+1 1 0 617972 0 0
+/bootstrap/dist/css/custom.css
+0 43 0 65301 0 0
+/test/bootstrap/dist/js/jquery/jquery.js
+0 1 0 397046 0 0
+/test/bootstrap/assets/homepage/image4.png
+1 1 0 667475 0 0
+/test/bootstrap/dist/js/jcarousel.basic.js
+0 1 0 1124 0 0
+/test/bootstrap/dist/js/ie10-viewport-bug-workaround.js
+0 1 0 694 0 0
+/test/bootstrap/dist/js/ie-emulation-modes-warning.js
+0 1 0 2132 0 0
+/bootstrap/dist/js/jcarousel.basic.js
+0 41 0 46084 0 0
+/bootstrap/dist/css/carousel.css
+0 44 0 131340 0 0
+/test/bootstrap/icon.ico
+0 5 0 498390 0 0
+/bootstrap/assets/image3.png
+1 3 0 2357637 0 0
+/bootstrap/dist/js/bootstrap.min.js
+0 39 0 1402089 0 0
+/test/bootstrap/dist/css/custom.css
+0 1 0 1755 0 0
+/test/
+0 3 0 17748 0 0
+/bootstrap/assets/homepage/image4.png
+1 15 0 10012125 0 0
+/bootstrap/dist/js/jcarousel.basic.css
+0 45 0 100620 0 0
+/test/services.php
+0 4 0 26576 0 0
+/test/bootstrap/assets/homepage/image3.png
+1 1 0 785879 0 0
+/bootstrap/assets/homepage/image5.png
+1 15 0 9907485 0 0
+/about.php
+0 40 0 276720 3 4
+/bootstrap/assets/image1.png
+1 3 0 1666788 0 0
+/test/bootstrap/dist/js/bootstrap.min.js
+0 1 0 35951 0 0
+/bootstrap/dist/js/jquery.jcarousel.min.js
+0 40 0 724920 0 0
+/faq.php
+0 24 0 152304 1 1
+/test/bootstrap/dist/js/jcarousel.basic.css
+0 1 0 2236 0 0
+/bootstrap/assets/image4.png
+1 3 0 2002425 0 0
+/bootstrap/fonts/HoneyScript-Light.ttf
+0 20 0 1656800 0 0
+/test/bootstrap/dist/css/carousel.css
+0 1 0 2985 0 0
+/bootstrap/assets/homepage/image2.png
+1 15 0 9269580 0 0
+/bootstrap/assets/homepage/image3.png
+1 17 0 12454667 0 0
+/bootstrap/assets/image5.png
+1 3 0 1981497 0 0
+/test/bootstrap/dist/css/bootstrap.min.css
+0 1 0 117305 0 0
+/bootstrap/dist/js/ie-emulation-modes-warning.js
+0 39 0 83148 0 0
+/
+0 143 0 765816 93 17
+/test/bootstrap/assets/homepage/image5.png
+1 1 0 660499 0 0
+/transformations.php
+0 17 0 98005 1 3
+/bootstrap/dist/js/jquery/jquery.js
+0 40 0 15881840 0 0
+/test/faq.php
+0 1 0 6346 0 0
+/bootstrap/assets/transformations/image3.jpg
+1 4 0 409508 0 0
+/test/bootstrap/dist/js/jquery.jcarousel.min.js
+0 1 0 18123 0 0
+/bootstrap/assets/homepage/image1.png
+1 15 0 8333940 0 0
+/bootstrap/assets/transformations/image1.jpg
+1 4 0 432920 0 0
+/test/about.php
+0 4 0 27672 0 1
+# End Of Table - urls
+# -sites- (monthly)
+207.46.13.27
+0 4 0 3068 0 0
+-
+177.3.163.132
+0 17 17 3955528 1 1458305951
+/
+89.248.172.173
+0 1 1 5916 1 1458285147
+/
+187.108.117.6
+0 11 11 585267 1 1458370379
+/
+203.113.152.10
+0 1 1 5916 1 1458379102
+/
+52.37.90.74
+0 2 2 11832 1 1457689944
+/
+217.14.200.55
+0 1 1 5916 1 1458378498
+/
+184.154.249.74
+0 93 81 3613089 6 1458049809
+-
+209.119.69.254
+0 170 166 25130245 6 1458072853
+/about.php
+66.249.75.92
+0 1 1 2236 0 0
+-
+196.218.23.67
+0 2 1 6683 1 1458400284
+-
+54.210.52.42
+0 5 5 129369 1 1457549689
+/
+23.96.54.209
+0 1 0 767 1 1457284130
+-
+193.90.12.88
+0 1 1 5916 1 1458242079
+/
+66.249.75.99
+0 1 1 1029 0 0
+-
+24.23.139.66
+0 143 143 21707321 9 1458354239
+/faq.php
+52.91.108.27
+0 5 5 130197 1 1458040703
+/
+153.232.58.74
+0 2 1 6581 1 1456892194
+-
+64.202.160.250
+0 1 1 5916 1 1457899873
+/
+40.77.167.93
+0 3 1 7450 1 1458178302
+/
+177.207.115.10
+0 17 17 3955528 1 1458128175
+/
+185.92.73.125
+0 1 0 767 1 1457547469
+-
+89.180.159.238
+0 1 1 5916 1 1458130774
+/
+108.163.224.114
+0 39 33 1757919 3 1457617923
+-
+104.192.0.18
+0 1 1 5916 1 1458114462
+/
+69.58.178.58
+0 9 7 44955 1 1458172792
+/
+107.77.75.32
+0 17 17 3955528 1 1458316175
+/
+104.236.238.185
+0 6 2 14696 1 1457344833
+-
+80.13.213.139
+0 1 1 5916 1 1458515342
+/
+209.0.146.172
+0 6 5 130136 1 1456901437
+/
+52.35.24.205
+0 5 5 29580 1 1457797286
+/
+184.154.248.106
+0 42 33 1358716 4 1458395539
+-
+38.100.21.61
+0 11 10 162553 1 1458303438
+/
+45.79.89.188
+0 11 11 0 11 1458316473
+/
+66.249.69.80
+0 8 6 523155 0 0
+-
+45.79.81.142
+0 1 1 0 1 1456813301
+/
+201.19.201.30
+0 17 17 3955528 1 1458237838
+/
+72.76.243.86
+0 21 7 471622 1 1457277064
+-
+178.17.174.99
+0 1 1 5916 1 1458168194
+/
+192.99.107.237
+0 1 0 261 0 0
+-
+192.99.107.227
+0 1 0 251 1 1456829235
+/
+23.96.9.84
+0 13 12 67852 1 1458465866
+/
+52.36.83.73
+0 2 2 11628 1 1457600691
+/
+66.249.69.88
+0 6 6 164985 1 1456813746
+/
+62.212.73.49
+0 1 1 5814 1 1456895261
+/
+107.6.137.74
+0 75 65 2480182 5 1458481789
+/
+24.104.64.2
+0 21 21 4727604 1 1458150099
+/
+198.54.90.200
+0 1 1 5916 1 1457936868
+/
+104.219.55.135
+0 1 1 5916 1 1458295605
+/
+66.249.69.96
+0 5 3 639865 0 0
+-
+23.239.208.210
+0 2 2 11832 1 1457751188
+/
+198.189.198.11
+0 23 23 3993184 2 1458154623
+/faq.php
+89.248.172.110
+0 1 1 5916 1 1458403632
+/
+136.243.48.86
+0 1 1 5814 1 1457184653
+/
+217.12.204.104
+0 1 1 5916 1 1458188311
+/
+50.117.89.108
+0 2 2 11628 1 1457444006
+/
+65.49.54.70
+0 2 2 11832 1 1458090148
+/
+104.238.194.164
+0 2 2 11832 1 1458404293
+/
+80.13.94.242
+0 1 1 5814 1 1457226985
+/
+66.249.75.85
+0 3 2 121057 0 0
+-
+198.56.144.171
+0 1 1 5916 1 1457666604
+/
+109.201.133.100
+0 1 1 5916 1 1458164713
+/
+89.145.95.40
+0 1 1 5916 1 1458277644
+/
+104.223.114.18
+0 1 1 5916 1 1458210858
+/
+185.100.86.128
+0 1 1 5916 1 1458139481
+/
+5.149.254.109
+0 1 0 767 1 1457019775
+-
+178.62.4.243
+0 1 1 5916 1 1458105000
+/
+69.175.59.186
+0 31 27 1204363 2 1458136467
+/services.php
+187.45.31.123
+0 17 17 3955528 1 1458031873
+/
+40.76.65.40
+0 17 17 3955528 1 1458466371
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+80.13.213.139
+0 1 1 5916 1 1458515342
+/
+23.96.9.84
+0 13 12 67852 1 1458465866
+/
+107.6.137.74
+0 18 16 618390 1 1458481789
+/
+40.76.65.40
+0 17 17 3955528 1 1458466371
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.maiartistry.com/bootstrap/dist/css/custom.css
+1 1
+http://maiartistry.com/transformations.php
+1 12
+http://www.maiartistry.com/transformations.php
+1 4
+http://www.google.com/url
+1 94
+http://maiartistry.com/faq.php
+1 15
+http://www.facebook.com/hackyshacky/info
+0 1
+http://www.maiartistry.com/index.php
+1 2
+http://www.maiartistry.com/faq.php
+1 6
+http://maiartistry.com/test/services.php
+1 4
+http://maiartistry.com
+1 1
+http://maiartistry.com/services.php
+1 25
+https://www.google.com/
+1 6
+- (Direct Request)
+0 334
+http://top1-seo-service.com/try.php
+0 6
+Google
+2 100
+http://www.yokofood.com/cdn-cgi/l/email-protection
+0 1
+http://burger-imperia.com/
+0 6
+http://maiartistry.com/
+1 211
+http://www.maiartistry.com/services.php
+1 3
+http://www.maiartistry.com
+1 5
+http://maiartistry.com/about.php
+1 29
+http://maiartistry.com/license.php
+1 1
+http://maiartistry.com/test/index.php
+1 2
+http://hundejo.com/
+0 1
+http://maiartistry.com/test/faq.php
+1 1
+http://www.jonesexc.com
+0 1
+http://maiartistry.com/bootstrap/dist/css/custom.css
+1 6
+http://maiartistry.com/test/bootstrap/
+1 1
+http://www.maiartistry.com/about.php
+1 6
+http://uptime.com/maiartistry.com
+1 12
+http://maiartistry.com/index.php
+1 22
+http://maiartistry.com/test/
+1 16
+http://maiartistry.com/test/about.php
+1 3
+http://www.maiartistry.com/
+1 79
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 496
+MSIE 7.0
+0 17
+WWW-Mechanize/1.73
+0 1
+Opera 8.5
+0 1
++http://servernfo.c
+0 1
+CRAZYWEBCRAWLER 0.9.10, http://www.crazywebcrawler.com
+0 1
+Netscape 6 compatible
+2 496
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 186
+panscient.com
+0 21
+GrapeshotCrawler/2.0
+0 1
+meanpathbot/1.0
+0 2
+roboto
+0 10
+Googlebot-Image/1.0
+0 2
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 2
+Uptimebot/1.0
+0 12
+MSIE 8.0
+0 8
+Internet Explorer 6
+2 1
+MSIE 9.0
+0 94
+Opera
+2 1
+Googlebot/2.1
+0 22
+MSIE 6.0
+0 1
+semanticbot
+0 30
+bingbot/2.0
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,109 @@
+.center-logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center-navbar {
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    float: none;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+
+}
+
+.center-navbar > li > a {
+  color: #B4B4B4;  
+}
+
+.dark-subtitle > p {
+  color: #000000;
+}
+
+.no-bullet-space ul > li {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+#quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#centeredTextBody {
+ text-align: center;
+ width: 70%;
+ margin-left: auto;
+ margin-right: auto; 
+}
+
+#body {
+    clear:both;
+    background-color: grey;
+    border: 1px solid black;
+    width: 620px; 
+    height: 400px;
+}
+
+#header {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #A8A8A8;
+    font-size: 5em;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#header2 {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    margin-top: -10px;
+    font-size: 3em;
+    color: #9BDED5;
+    /*background-color: #000000;*/
+    font-family: "Honey Script Light", sans-serif;
+}
+
+#question {
+    width: 50%; 
+    font-weight: 900;
+    text-align: left; 
+    margin-left: auto; 
+    margin-right: auto;
+    font-weight: thick;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#answer {
+    width: 50%; 
+    font-weight: 300;
+    text-align: left; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding-left: 5px;
+}
+
+#tabTitle {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+@font-face {
+  font-family: "Honey Script Light";
+  src:url("/bootstrap/fonts/HoneyScript-Light.ttf") format("truetype");
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+
+
+
+
+

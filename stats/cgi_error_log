@@ -1,0 +1,9 @@
+20150427T052155: maiartistry.com/test/bootstrap/html/www/index2.php
+PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /hermes/bosweb25c/b1408/ipg.maiartistrycom/test/bootstrap/html/www/index2.php on line 98
+
+20150427T052253: maiartistry.com/test/bootstrap/html/www/index2.php
+PHP Parse error:  syntax error, unexpected '<' in /hermes/bosweb25c/b1408/ipg.maiartistrycom/test/bootstrap/html/www/index2.php on line 97
+
+20150427T052339: maiartistry.com/test/bootstrap/html/www/index2.php
+PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /hermes/bosweb25c/b1408/ipg.maiartistrycom/test/bootstrap/html/www/index2.php on line 99
+
