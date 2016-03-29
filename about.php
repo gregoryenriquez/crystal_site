@@ -93,7 +93,7 @@
     <div id="centeredTextBody" style="margin-bottom: 50px">
       <h1 id="tabTitle" style="margin-top: 0; margin-bottom: 0">About Me</h1>
     </br>
-      <p id="quicksand" style="font-weight: 900; width: 70%; text-align: left; margin-left: auto; margin-right: auto">
+      <p id="subTabBody" style="width: 70%; text-align: left; margin-left: auto; margin-right: auto">
         For the last 10 years, I have been providing makeup services to friends and family for all occasions ranging from a night out in town to a wedding event—it was my creative outlet. It gave me the opportunity to express my love for makeup artistry and the ability to enhance and accentuate naturally beautiful faces. Makeup has always been a passion mine and it fascinated me that you could make subtle or drastic changes almost instantly. 
         </br></br>
         It wasn’t until recently that I began my journey as a Makeup Artist. I created Mai Artistry as a way to express my passion for makeup and helping people. As an educator and an artist, I strive to empower, inspire, and motivate women by producing the best quality of work that makes you look and feel great! 
